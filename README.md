@@ -29,13 +29,6 @@ For a pet owner, you can create a post for adoption with photos and information 
 
 # Team information
 
-|         Name         |   ID     |      Role    |
-|----------------------|:--------:|:------------:|
-| Quốc Thuận Trương    | 18120583 |     Leader   |
-| Lê Nhật Tuấn         | 18120632 |     Member   |
-
-# Demo
-> ***https://youtu.be/W1DuCXef1Oo***
 
 # App introduction
 
@@ -148,9 +141,3 @@ Manage user profile and other setting in app.
 
 <br/>
 
-# License
-
-Adopt Me is available under the
-[MIT license](https://opensource.org/licenses/MIT). See
-[LICENSE](https://github.com/QuocThuanTruong/AdoptMe/blob/add-license-1/LICENSE) for the full
-license text.
